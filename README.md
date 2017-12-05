@@ -1,1 +1,0 @@
-# Veri yapıları uygulamaları
