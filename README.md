@@ -1,1 +1,1 @@
-# Data_Structures
+# Veri yapıları uygulamaları
